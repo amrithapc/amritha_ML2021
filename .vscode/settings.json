@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\best\\AppData\\Local\\Programs\\Python\\Python39\\python3.exe"
+     "python.terminal.activateEnvironment": false,
+    
+    "python.pythonPath": "C:\\Users\\best\\anaconda3\\envs\\Ml\\python.exe"
 }
